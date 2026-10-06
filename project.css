@@ -78,6 +78,18 @@ body {
     line-height: 1.6;
 }
 
+.header.portfolio-footer {
+    position: relative;
+    inset: auto;
+    transform: none;
+    margin: 20px auto 0;
+}
+
+.portfolio-footer .navbar {
+    flex: 1;
+    justify-content: space-between;
+}
+
 .proj-subheading {
     text-align: center;
     color: var(--color-text);
