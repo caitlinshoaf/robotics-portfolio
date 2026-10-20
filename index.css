@@ -147,6 +147,10 @@ body {
     -webkit-box-orient: vertical;
 }
 
+.project-desc-line {
+    margin: 0;
+}
+
 .project-img {
     display: block;
     width: 100%;
